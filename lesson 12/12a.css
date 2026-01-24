@@ -1,0 +1,11 @@
+.flex{
+        display: flex;
+      }
+      .blue{
+        background-color: lightblue;
+        width: 200px;
+      }
+      .pink{
+        background-color: lightpink;
+        width: 75px;
+      }
